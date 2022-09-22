@@ -1,0 +1,12 @@
+{
+  "name": "iniciando_com_node",
+  "version": "1.0.0",
+  "description": "Primeiro projeto 2022 CodeDrops",
+  "main": "app1.js",
+  "scripts": {},
+  "author": "Guilherme A.",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
